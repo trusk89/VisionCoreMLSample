@@ -1,3 +1,13 @@
+# Not Hotdog
+
+*Dammit Jian-Yang!*
+
+Thanks silicon valley for one of the best ideas ever!
+
+Not hotdog is based on the VisionSample app by atomic14, available 
+[here](https://github.com/atomic14/VisionCoreMLSampl). Awesome job man!
+
+
 # Getting started
 
 [![Recognising objects](demo.gif)](https://www.youtube.com/watch?v=S33BNcnlxdU)
